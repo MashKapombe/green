@@ -3,7 +3,7 @@ TITLE:
 Girly - 100% Fully Responsive One Page HTML5 Bootstrap 4 Template
 
 AUTHOR:
-DESIGNED & DEVELOPED by georgethedeveloper[!georgethedeveloper.com]
+DESIGNED & DEVELOPED by georgethedeveloper http://georgethedeveloper.com
 
 Website: http://freehtml5.co/
 Twitter: http://twitter.com/fh5co
